@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+body {
+            background-color: rgb(204, 204, 204);
+            font-family: Arial, sans-serif;
+            margin-bottom: 20px;
+            padding: 0;
+
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        ul {
+            padding: 10px;
+            background-color: rgb(255, 255, 255);
+            margin: 0 20px;
+            border-radius: 10px;
+
+        }
+        li {
+            list-style-type: none;
+            margin: 10px;
+        }
+        a {
+            text-decoration-line: none;
+            color: black;
+        }
+        
+        .bhalu-set{
+            background-color: rgb(255, 255, 255); 
+            padding: 15px;
+            border-radius: 10px;
+            margin: 0 100px ;
+            text-align: center;
+        }
+		.player_one{
+			text-align: center;
+		}
+		.player_two{
+			text-align: center;
+		}
+        p{
+			text-align: start;
+            font-size: 0.6rem;
+            padding-left: 160px;
+		}
