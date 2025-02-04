@@ -34,13 +34,19 @@ body {
             /* text-align: center; */
 			border: 2px solid black;
         }
+
+		.player_one,.player_two{
+			background-color: rgb(255, 255, 255);
+		}
 		.player_one video{
 			text-align: center;
 			width:100%;
+			
 		}
 		.player_two audio{
 			text-align: center;
 			width:100%;
+			
 		}
         .player_two p{
 			left:10px;
