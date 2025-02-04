@@ -31,7 +31,7 @@ body {
             padding: 15px;
             border-radius: 10px;
             margin: 0 50px ;
-            text-align: center;
+            /* text-align: center; */
 			border: 2px solid black;
         }
 		.player_one video{
@@ -42,8 +42,6 @@ body {
 			text-align: center;
 			width:100%;
 		}
-        p{
-			text-align: start;
-            font-size: 0.6rem;
-            padding-left: 90px;
+        .player_two p{
+			left:10px;
 		}
