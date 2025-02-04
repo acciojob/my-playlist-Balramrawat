@@ -34,11 +34,13 @@ body {
             text-align: center;
 			border: 2px solid black;
         }
-		.player_one{
+		.player_one video{
 			text-align: center;
+			width:100%;
 		}
-		.player_two{
+		.player_two audio{
 			text-align: center;
+			width:100%;
 		}
         p{
 			text-align: start;
